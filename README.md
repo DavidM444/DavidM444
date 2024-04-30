@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidm444&label=Profile%20views&color=0e75b6&style=flat" alt="davidm444" /> </p>
 
 - 🔭 I’m currently working on **quality management project.**
-- 🔒 My work repositories are private.**
 
 - 🌱 I’m currently learning **more about javascript.**
 
