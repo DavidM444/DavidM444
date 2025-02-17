@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **quality management project.**
 
-- 🌱 I’m currently learning **more about Javascript and Nuxt Js.**
+- 🌱 I’m currently learning **more about Javascript, PHP - Laravel, and Nuxt Js.**
 
 <p align="left">
 </p>
